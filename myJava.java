@@ -7,7 +7,8 @@ public class myJava {
 		
 		if (a<b) {
 			
-			System.out.println("B is the largest number " + b);
+			System.out.println("The value of A is      : " + a);
+			System.out.println("B is the largest number: " + b);
 			
 		}
 		else {
